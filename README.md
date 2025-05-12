@@ -48,5 +48,5 @@ Send SMS alerts to supervisors with location data
 Store incident data in cloud or SD card for reporting
 
 👨‍💻 Author
-Your Guruprakash V K
+Guruprakash V K
 
